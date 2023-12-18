@@ -1,3 +1,6 @@
 [submodule "MatVec_MPI_Multiplier"]
 	path = MatVec_MPI_Multiplier
 	url = https://github.com/YaroslavPr17/MatVec_MPI_Multiplier
+[submodule "Distruted_computing"]
+	path = Distruted_computing
+	url = https://github.com/gsgol/Distributed-computing.git
